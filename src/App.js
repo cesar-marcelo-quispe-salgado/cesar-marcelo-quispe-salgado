@@ -38,10 +38,12 @@ function App() {
         </Col>
       </Row>
     </Container>
+
+
     <Container>
       <Row>
         <Col>
-          {/* Otras partes de tu aplicación */}
+          
           <Button variant="primary" onClick={() => setShowModal(true)}>
             Abrir Video
           </Button>
