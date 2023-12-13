@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cesar-marcelo-quispe-salgado/static/css/main.0167ee6c.css",
+    "main.js": "/cesar-marcelo-quispe-salgado/static/js/main.c4b473dc.js",
+    "static/js/787.fd69486c.chunk.js": "/cesar-marcelo-quispe-salgado/static/js/787.fd69486c.chunk.js",
+    "static/media/tinku.jpg": "/cesar-marcelo-quispe-salgado/static/media/tinku.e3eeac98acd0aff4f91a.jpg",
+    "static/media/diablada.jpg": "/cesar-marcelo-quispe-salgado/static/media/diablada.f8f84a93410da7ad6e50.jpg",
+    "static/media/saya.jpg": "/cesar-marcelo-quispe-salgado/static/media/saya.a01805cd8838479605ef.jpg",
+    "static/media/caporal.jpg": "/cesar-marcelo-quispe-salgado/static/media/caporal.9038ab6cb6bce7ea8f6b.jpg",
+    "static/media/morenada.jpg": "/cesar-marcelo-quispe-salgado/static/media/morenada.260672fb22c91397b20d.jpg",
+    "index.html": "/cesar-marcelo-quispe-salgado/index.html",
+    "main.0167ee6c.css.map": "/cesar-marcelo-quispe-salgado/static/css/main.0167ee6c.css.map",
+    "main.c4b473dc.js.map": "/cesar-marcelo-quispe-salgado/static/js/main.c4b473dc.js.map",
+    "787.fd69486c.chunk.js.map": "/cesar-marcelo-quispe-salgado/static/js/787.fd69486c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0167ee6c.css",
+    "static/js/main.c4b473dc.js"
+  ]
+}
